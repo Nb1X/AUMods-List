@@ -57,8 +57,11 @@ A large list of Among Us mods
 | ----- | ----- | ----- |
 | Skeld.net | Modded Impostor (Closed Source) | [Website](https://skeld.net) |
 | Niko Servers (EU, NA, AS, CN2) | Modded Impostor (Closed Source) | [Website](https://au.niko233.top) |
-| Modded NA/EU/AS | Regular Impostor (Open Source) | [Webiste](https://duikbo.at) |
+| Modded NA/EU/AS | Regular Impostor (Open Source) | [Website](https://duikbo.at) |
 | ModdedCrew (EU) | [Empostor](https://github.com/Empostor/Empostor) (Open Source) | [Website](https://website.moddedcrew.duckdns.org) |
+| All Of Us (EU) | Modded Impostor (Closed Source) | [Website](https://allofus.dev) |
+| MAUL (NA, EU) | ??? | [Website](https://moddedamong.us) |
+| Jarne (EU) | ??? | None |
 
 Mods to add custom regions:
 
@@ -66,3 +69,18 @@ Mods to add custom regions:
 | ----- | ----- | ----- |
 | Mini.RegionInstall | Mini.RegionInstall is a BepInEx plugin that adds modded regions to Among Us. Used by some mods | [GitHub](https://github.com/miniduikboot/Mini.RegionInstall) |
 | RegionInstaller | RegionInstaller is a BepInEx plugin that adds custom & modded regions to Among Us through a config file. | [GitHub](https://github.com/Nb1X/RegionInstaller) |
+
+# Custom Maps
+
+| Mod name | Description | GitHub | Starlight? |
+| ----- | ----- | ----- | ----- |
+| Submerged | Submerged is a custom underwater themes custom app with 2 floors, custom vents, unique tasks & custom sabotages. | [GitHub](https://github.com/SubmergedAmongUs/Submerged) | Coming soon! |
+| LevelImposter | LevelImposter is a mod that allows you to create your own custom maps, and play on community-made maps on the marketplace. | [GitHub](https://github.com/DigiWorm0/LevelImposter) | Yes |
+| BetterPolus | BetterPolus is a mod that tweaks Polus, making it better and organized | [GitHub](https://github.com/Brybry16/BetterPolus) | No |
+
+# Other
+
+| Mod name | Description | GitHub | Starlight? |
+| ----- | ----- | ----- | ----- |
+| AleLuduMod | AleLuduMod allows you to create 15+ players lobbies and changes the meeting UI, shapeshift menu & vitals to fit 35 players. | [GitHub](https://github.com/townofus-pl/AleLuduMod) | Yes |
+| Overloaded | Overloaded is another mod that allows you to create 15+ player lobbies and up to 127 players. Useful for Hide N Seek. | [GitHub](https://github.com/All-Of-Us-Mods/Overloaded) | Yes |
