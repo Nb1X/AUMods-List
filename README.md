@@ -78,9 +78,17 @@ Mods to add custom regions:
 | LevelImposter | LevelImposter is a mod that allows you to create your own custom maps, and play on community-made maps on the marketplace. | [GitHub](https://github.com/DigiWorm0/LevelImposter) | Yes |
 | BetterPolus | BetterPolus is a mod that tweaks Polus, making it better and organized | [GitHub](https://github.com/Brybry16/BetterPolus) | No |
 
+# Launchers
+| Name | Description | GitHub |
+| ----- | ------ | ----- |
+| Starlight | Starlight is the first Among Us mod launcher for Android. It has a large list of mods and is available on the Play Store. | [GitHub](https://github.com/All-Of-Us-Mods/starlight-releases), [Play Store](https://play.google.com/store/apps/details?id=dev.allofus.starlight&hl=fr) |
+| Starlight (Windows) | Starlight for Windows is a mod launcher for Among Us and you can either download mods from a marketplace, or import your own DLLs. | [GitHub](https://github.com/All-Of-Us-Mods/Starlight-PC) |
+| FusionCore (Android) | FusionCore is a BepInEx mod launcher for Android. It doesn't have a marketplace, but you can upload your own DLLs, and it is made by the Starlight team (AOU). | [GitHub](https://github.com/All-Of-Us-Mods/FusionCore) |
+
 # Other
 
 | Mod name | Description | GitHub | Starlight? |
 | ----- | ----- | ----- | ----- |
 | AleLuduMod | AleLuduMod allows you to create 15+ players lobbies and changes the meeting UI, shapeshift menu & vitals to fit 35 players. | [GitHub](https://github.com/townofus-pl/AleLuduMod) | Yes |
 | Overloaded | Overloaded is another mod that allows you to create 15+ player lobbies and up to 127 players. Useful for Hide N Seek. | [GitHub](https://github.com/All-Of-Us-Mods/Overloaded) | Yes |
+| Reactor.RemoveAccounts | This mod allows you to play Among Us without creating an account. | [GitHub](https://github.com/NuclearPowered/Reactor.RemoveAccounts) | No |
